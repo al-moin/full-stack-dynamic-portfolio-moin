@@ -48,11 +48,12 @@
 }
 
 .hero-text .highlight {
-    color: var(--primary-color);
     background: linear-gradient(45deg, #9333ea, #7c3aed);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
 
 .hero-text p {
     font-size: 1.125rem;

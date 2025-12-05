@@ -7,7 +7,7 @@
                 <h1>Hello, I'm <br> <span class="highlight">Abdullah Al Moin</span></h1>
                 <p>Professional Web Developer crafting modern, scalable, and high-performance digital experiences.</p>
                 <div class="cta-group">
-                    <a href="#" class="btn btn-primary">View Projects</a>
+                    <a href="#" class="btn btn-primary">About</a>
                     <a href="#" class="btn btn-outline">Contact Me</a>
                 </div>
             </div>
